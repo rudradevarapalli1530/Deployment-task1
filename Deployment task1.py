@@ -9,7 +9,9 @@ Original file is located at
 
 pip install streamlit
 
+!pip install streamlit
 import streamlit as st
+
 import requests
 from bs4 import BeautifulSoup
 import subprocess
